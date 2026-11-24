@@ -1,16 +1,45 @@
-## Hi there 👋
+# Eduardo Carvalho
 
-<!--
-**EduBCarv/EduBCarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer · macOS Development · AI & Developer Tools**
 
-Here are some ideas to get you started:
+I'm a software engineer interested in building thoughtful software, exploring emerging technologies, and turning complex ideas into practical products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on **macOS development, AI-powered tools, LLM integrations, and the Model Context Protocol (MCP)**.
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [NotchPlay](https://github.com/EduBCarv/NotchPlay) | A macOS application that transforms the MacBook notch into a dynamic, interactive experience. |
+| [Aurel](https://github.com/EduBCarv/Aurel) | An ongoing software project focused on extending and improving the macOS experience. |
+
+### 🧠 Areas of Interest
+
+- macOS application development
+- Artificial intelligence and LLM integrations
+- Agentic workflows and AI-assisted development
+- Model Context Protocol (MCP)
+- Software architecture and developer tooling
+- Human-computer interaction and interface design
+
+### 🛠️ Technologies & Tools
+
+**Development**
+  
+Swift · Python · Git · GitHub
+
+**AI & Developer Ecosystem**
+
+Claude · Claude Code · GitHub Copilot · MCP
+
+### 📚 Currently Exploring
+
+- Building applications with Claude and LLM APIs
+- Designing reliable MCP-based architectures
+- Integrating AI agents into real-world development workflows
+- Creating polished and native macOS experiences
+
+---
+
+*Building, experimenting, and learning — one project at a time.*
+
